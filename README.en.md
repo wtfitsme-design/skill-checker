@@ -52,3 +52,7 @@ See [references/sample-report.md](references/sample-report.md) — includes a sk
 Criteria distilled from analysis of these open-source projects: wechat-topic-radar, typefully, daymade deep-research, Jeffallan skills, market-insight, trailofbits, ask-questions.
 
 All referenced projects are open-source; design patterns belong to their respective authors.
+
+## License
+
+[MIT](LICENSE)
